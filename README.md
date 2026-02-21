@@ -50,7 +50,11 @@ Neste projeto, utilizei um conjunto de ferramentas que conectam o planejamento e
 * Plataforma de CRM SALESFORCE: Recursos Utilizados: Object Manager, Custom Fields, Kanban Views, Lightning App Builder, Custom Tabs e Data Modeling.
 * Planejamento e Arquitetura de Dados -  Google Sheets: Mapeamento de campos, definição de tipos de dados (Picklist, Currency, Long Text) e estruturação da lógica de negócio antes da implementação.
 * Stack de Conhecimento (Fundamentos): Diferencial: O domínio prévio de SQL e Power BI facilitou a compreensão da estrutura de objetos relacionais e a importância da integridade dos dados dentro do Salesforce.
-👉 [**Clique aqui para visualizar o Relatório Técnico Completo (PDF)**](./pdf/relatorio_projeto_L1_001.pdf)
+👉 [**Clique aqui para visualizar o Relatório Técnico Completo (PDF)**](./pdf/doc_tec_salesforce_divino_pomar.pdf)
 
 ## ☁️ Algumas imagens do projeto: 
-![img00001](img/00001.png)
+![img01](img/01.png)
+![img02](img/02.png)
+![img03](img/03.png)
+![img04](img/04.png)
+![img05](img/05.png)
