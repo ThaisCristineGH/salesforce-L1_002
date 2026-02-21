@@ -17,7 +17,7 @@ Este projeto representa a maturação do meu aprendizado L1, saindo de configura
 ## 📊 Arquitetura Inicial
 Como boa prática de arquitetura, utilizei o Google Sheets como ferramenta de mapeamento antes da implementação. Isso garantiu que a criação dos campos e tipos de dados no Salesforce fosse feita de forma estratégica e sem retrabalho.
 
-##🛠️ Execução: Do Planejamento à Nuvem (Salesforce em Ação):
+## 🛠️ Execução: Do Planejamento à Nuvem (Salesforce em Ação):
 Após a estruturação da marca e o desenho da arquitetura no Google Sheets, o projeto avançou para a fase de Build (Construção) dentro do Salesforce Trailhead Playground. O foco foi eliminar o "Caos do Papel" e criar uma interface intuitiva para o utilizador.
 
 1. Modelagem do Objeto "Assinaturas"
